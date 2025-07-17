@@ -1,0 +1,15 @@
+langgraph
+langchain
+ipython
+langchain_openai
+langchain-openrouter
+langchain-google-genai
+langchain_community
+langchain_chroma
+langchain-ollama
+dotenv
+typing
+chromadb
+litellm
+pypdf
+
